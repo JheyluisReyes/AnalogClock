@@ -11,4 +11,4 @@ This is an Analog Clock using HTML for the hands and numbers, CSS for the layout
 
 - Open [index.html](index.html) with your preferred browser to view the Animated Background.
 
-  ![Analog Clock Screenshot](images/AnalogClockGIF.gif)
+  ![Analog Clock Screenshot](images/AnalogClockGIF.mp4)
