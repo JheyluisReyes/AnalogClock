@@ -9,6 +9,6 @@ This is an Analog Clock using HTML for the hands and numbers, CSS for the layout
     git clone https://github.com/JheyluisReyes/AnalogClock.git
     ```
 
-- Open [index.html](index.html) with your preferred browser to view the Animated Background.
+- Open [index.html](index.html) with your preferred browser to view the Analog Clock.
 
   ![Analog Clock Screenshot](images/AnalogClockGIF.gif)
