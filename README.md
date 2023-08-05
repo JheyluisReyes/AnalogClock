@@ -1,7 +1,7 @@
 # Analog Clock
 This is an Analog Clock using HTML for the hands and numbers, CSS for the layout, and JavaScript for the functionality.
 
-  ![Analog Clock Background Screenshot](images/AnalogClock.png)
+  ![Analog Clock Background Screenshot](images/AnalogClockScreenshot.png)
 
 ## Getting started
 - Get the code:
